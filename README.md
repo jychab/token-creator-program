@@ -41,3 +41,7 @@ Bob’s Wallet Balance Hits Zero:
 - Encourages Distribution: Users are motivated to transfer tokens to new wallets to earn referral fees.
 - Promotes Engagement: As users benefit from the growth of the network, they are incentivized to encourage others to join and use the token.
 - Dynamic Referrals: The referral relationships are dynamic and adapt to the token holding patterns of users, ensuring active participants are rewarded.
+
+## Caveats
+- This smart contract will need to work in conjunction with the [token-transfer-hook program](https://github.com/jychab/token_transfer_hook) 
+- As of 13 Jun 20224, there is currently no support for token hook extension in any DEXes.
