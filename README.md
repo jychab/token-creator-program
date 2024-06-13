@@ -44,4 +44,4 @@ Bob’s Wallet Balance Hits Zero:
 
 ## Caveats
 - This smart contract will need to work in conjunction with the [token-transfer-hook program](https://github.com/jychab/token_transfer_hook) 
-- As of 13 Jun 20224, there is currently no support for token hook extension in any DEXes.
+- As of 13 Jun 2024, there is currently no support for token hook extension in any DEXes.
